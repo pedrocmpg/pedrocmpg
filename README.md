@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-About me :scream:
+About me 😄:
 
 My name is Pedro Campagnolo from Brazil (🇧🇷). I'm a a design enthusiast and have been studying IT at the [Infoserv school](http://www.escolainfoserv.com.br). I'm a a design enthusiast
 

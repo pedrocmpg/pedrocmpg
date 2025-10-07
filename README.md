@@ -2,7 +2,7 @@
 
 About me 😄:
 
-My name is Pedro Campagnolo from Brazil (🇧🇷). I'm a a design enthusiast and have been studying IT at the [Infoserv school](http://www.escolainfoserv.com.br). I'm fascinated with IT.
+My name is Pedro Campagnolo from Brazil (🇧🇷). I'm a a design enthusiast and fascinated with IT, actually I been studying IT at the [Infoserv school](http://www.escolainfoserv.com.br).
 
 In my free time I like to play (and watch) videogames (🎮), bodybuilding and fitness life (🏋️), to watch movies (🎞️) and series (📺), to listen to music (🎵),  to talk with friends and eventually I like to philosophize about life.
 

@@ -1,26 +1,35 @@
 # Hi, I'm Pedro Campagnolo 👋
 
-**Python Developer in Training | Software Engineering Enthusiast**
+**Software Engineering Student | Full-Stack & Mobile Developer**
 
-I'm a developer focused on building solutions that optimize daily routines. Currently, I am developing **GYMNight**, my first project dedicated to workout management and training efficiency.
+I build software solutions focused on process automation, routine optimization, and mobile experiences. Currently exploring the intersection of robust backend logic with clean, efficient mobile interfaces.
 
-### 🛠️ Technologies & Tools
-* **Languages:** Python (Current focus), PHP, SQL.
-* **Databases:** SQLite, MySQL, and MariaDB.
-* **Interests:** Software Architecture, Data Modeling, UX Design, and ADS (Analysis and Systems Development).
+## 🛠️ Technologies & Tools
+* **Languages:** JavaScript, Python, PHP, SQL
+* **Frameworks & Mobile:** React Native, PySide6
+* **Databases:** SQLite, MySQL, MariaDB
+* **Core Skills:** Technical Troubleshooting, Software Architecture, UX Design
 
-### 🚀 Featured Project: GYMNight
-I am building an application to assist with workout routines, aiming to reduce smartphone distractions and optimize the tracking of training volume and intensity.
-* **Status:** In development (MVP).
-* **Stack:** Python + SQL.
+## 💼 Professional Experience
 
-### 📚 Education & Research
-* **Technical Course:** PHP and IT Fundamentals (Infoserv School).
-* **Academic Research:** Currently conducting interdisciplinary studies relating 19th-century Brazilian Literature with modern social dynamics.
-* **Goal:** To evolve into a solid career in Software Engineering.
+### Technical Support Analyst (Current)
+* Providing technical solutions and system troubleshooting for corporate clients.
+* Analyzing system behavior, identifying bugs, and mapping user requirements.
+* Developed critical soft skills like active listening, crisis management, and analytical problem-solving.
 
-### 🏃 Beyond the Code
-In my free time, I am a dedicated bodybuilding practitioner, pursuing a healthy lifestyle and enjoying the analysis of the logic behind systems (and life itself).
+## 🚀 Featured Projects
+
+### GYMNight (In Development)
+A mobile application designed to optimize workout routines and track training volume/intensity directly from the smartphone.
+* **The Goal:** Replace bloated, distracting social media apps at the gym with a streamlined, minimalist tracking interface.
+* **Stack:** React Native, JavaScript
+
+### FluxCash (On Hold)
+A personal financial management desktop software focused on automation and investments.
+* **Stack:** Python, PySide6, SQLite
+
+## 🏃 Beyond the Code
+When I'm not writing code or debugging, you can find me lifting weights. I am a dedicated bodybuilding practitioner, driven by discipline and the pursuit of continuous improvement—both in health and in analyzing the logic behind systems and life itself.
 
 
 Would you like to find me?
